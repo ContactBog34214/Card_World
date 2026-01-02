@@ -1,0 +1,1 @@
+{"id":"3c342c9f-35fd-409a-a793-cfe9488b12c2","type":"list","is_global":false,"scale":1,"theme":"common","name":"更新内容","offset":{"x":0,"y":0},"position":{"x":-640,"y":60},"current_entity":"472abafe-2a76-49c7-953e-9b30f193ab80","visible":false,"value":["优化游戏内渲染","优化性能","修改初始化逻辑","修改买经验的比例"]}
